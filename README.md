@@ -57,6 +57,23 @@ Developed interactive dashboards and scalable web solutions with reusable compon
 
 ---
 
+## 🌐 Live Applications
+
+🔹 **Protein Xclusive**  
+https://proteinxclusive.in/
+https://proteinxclusive.com/
+
+🔹 **Urban Kitchen**  
+https://urban-kitchens.in/
+
+🔹 **Eduvise**  
+https://eduvise.in/
+
+🔹 **QubeQ**  
+https://qubeq.in/
+
+---
+
 ## 📚 Currently Learning
 
 - Advanced React.js
