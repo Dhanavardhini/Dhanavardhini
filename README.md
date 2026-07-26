@@ -88,7 +88,7 @@ https://qubeq.in/
 
 📧 Email: dhanavardhini02@gmail.com
 
-💼 LinkedIn: Add your LinkedIn URL
+💼 LinkedIn: (https://www.linkedin.com/in/dhanavardhini-alagar-478a90222/)
 
 🌐 Portfolio: Coming Soon
 
